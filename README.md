@@ -1,4 +1,4 @@
-# Vector Evaluation
+# Toward Hybrid Code Representation Learning Models between Static and Contextualized Embeddings for Bug Detection
 
 This repository contains the code for **Toward Hybrid Code Representation Learning Models between Static and Contextualized Embeddings for Bug Detection** and the [Page](https://vectorevaluationresearch.github.io/vectorevaluationresearch/) that has visualized data.
 
