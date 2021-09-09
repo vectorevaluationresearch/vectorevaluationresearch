@@ -54,7 +54,7 @@ that fit with the mixed polysemy nature of source code.
 
 We published our processed dataset at https://drive.google.com/file/d/1WRxvz0Xj-IlTZN5N9qoXMLKKSZup4w41/view?usp=sharing
 
-Please create a ```processed``` folder under the root folder of this repository, download the dataset, unzip it and put all files in ```./processed``` folder.
+Please create a folder named ```processed``` under the root folder of this repository, download the dataset, unzip it and put all files in ```./processed``` folder.
 
 ### Use your own dataset
 
