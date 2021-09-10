@@ -80,7 +80,7 @@ def get_label_data(data, split):
 
 if __name__ == '__main__':
     split = 180
-    input_data = np.load(os.path.join(os.getcwd(), "/processed/data.npy"), allow_pickle=True)
+    input_data = np.load(os.path.join(os.getcwd(), "processed/data.npy"), allow_pickle=True)
     label_data, test_label = get_label_data(input_data, split)
     input_1, test_1 = model_1(input_data, split)
     input_2, test_2 = model_2(input_data, split)
