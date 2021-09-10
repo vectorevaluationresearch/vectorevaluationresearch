@@ -2,13 +2,17 @@
 
 This repository contains the code for **Toward Hybrid Code Representation Learning Models between Static and Contextualized Embeddings for Bug Detection** and the [Page](https://vectorevaluationresearch.github.io/vectorevaluationresearch/) that has visualized data.
 
+# Experimental Results and Data:  https://vectorevaluationresearch.github.io/vectorevaluationresearch/
+# Source Code: https://github.com/vectorevaluationresearch/vectorevaluationresearch#Instruction_to_Run_Vector_Evaluation
+# Demo: https://github.com/vectorevaluationresearch/vectorevaluationresearch#Demo
+
 ## Contents
 
 1. [Website](#Website)
 2. [Introduction](#Introduction)
 3. [Dataset](#Dataset)
 4. [Requirement](#Requirement)
-5. [Instruction](#Instruction)
+5. [Instruction_to_Run_Vector_Evaluation](#Instruction_to_Run_Vector_Evaluation)
 6. [Demo](#Demo)
 
 ## Website
@@ -78,11 +82,11 @@ If you want to use your own dataset, please prepare the data as follow:
 
 Please check all required packages in the [requirement.txt]()
 
-## Instruction
+## Instruction_to_Run_Vector_Evaluation
 
 Change the ```split``` value to define your data splitting position.
 
-Run ```main.py``` to see the result for the experiment. 
+Download vector evaluation source code and run ```main.py``` to see the result for the experiment. 
 
 ## Demo
 
