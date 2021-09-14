@@ -80,7 +80,7 @@ If you want to use your own dataset, please prepare the data as follow:
 
 ## Requirement
 
-Please check all required packages in the [requirement.txt]()
+Please check all required packages in the [requirement.txt](https://github.com/vectorevaluationresearch/vectorevaluationresearch/blob/main/requirement.txt)
 
 ## Instruction_to_Run_Vector_Evaluation
 
